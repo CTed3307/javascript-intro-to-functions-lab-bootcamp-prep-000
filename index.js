@@ -1,4 +1,4 @@
-var sayHiToGrandma(string)
+
 
 
 function shout(string) {
