@@ -10,6 +10,3 @@ function whisper(string) {
 function logShout(string) {
 console.log('${string}').toUpperCase()
 }
-function sayHiToGrandma.toUpperCase()z {
-  console.log("Hello, Brendan!")
-}
